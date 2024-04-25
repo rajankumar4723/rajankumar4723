@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Modanwal</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">I am FullStack developer from India</h3>
 <img src="
 " alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajankumar4723&label=Profile%20views&color=0e75b6&style=flat" alt="rajankumar4723" /> </p>
