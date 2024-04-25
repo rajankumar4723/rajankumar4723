@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Modanwal</h1>
 <h3 align="center">I am FullStack developer from India</h3>
-<img src="https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/f7f1154c-0747-4a06-8f4a-53ec17f1949d/Why-should-you-choose-computer-science-engineering-as-your-graduation-degree-transformed.jpeg" alt="coding">
+<img src="[https://images.squarespace-cdn.com/content/v1/5fce63270356d927d7eecdbd/f7f1154c-0747-4a06-8f4a-53ec17f1949d/Why-should-you-choose-computer-science-engineering-as-your-graduation-degree-transformed.jpeg](https://upload.wikimedia.org/wikipedia/commons/e/e1/Computer_science_and_engineering.jpg)" alt="coding">
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rajankumar4723&label=Profile%20views&color=0e75b6&style=flat" alt="rajankumar4723" />
 </div>
